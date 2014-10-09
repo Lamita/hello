@@ -1,3 +1,3 @@
 <?php
-echo "Hello-world: no commit yet";
+echo "Hello-world: first change";
 ?>
